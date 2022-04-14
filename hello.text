@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 hello git i coming  添加了一行
+=======
+>>>>>>> e175c1e... hello文件
 hello git i coming
 hello git i coming
 hello git i coming
@@ -7,4 +10,6 @@ hello git i coming
 hello git i coming
 hello git i coming 
 merg-user 的操作:wq
-
+hello git i coming
+hello git i coming
+>>>>>>> e175c1e... hello文件`
